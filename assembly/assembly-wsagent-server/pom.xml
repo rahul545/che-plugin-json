@@ -13,7 +13,7 @@
     <parent>
         <artifactId>plugin-json-assembly-parent</artifactId>
         <groupId>archetype.it</groupId>
-        <version>0.1-SNAPSHOT</version>
+        <version>6.0.0-M5-SNAPSHOT</version>
     </parent>
     <artifactId>assembly-wsagent-server</artifactId>
     <packaging>pom</packaging>
