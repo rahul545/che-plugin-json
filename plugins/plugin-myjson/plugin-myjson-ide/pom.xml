@@ -13,7 +13,7 @@
     <parent>
         <artifactId>plugin-json-parent</artifactId>
         <groupId>archetype.it</groupId>
-        <version>6.7.0-SNAPSHOT</version>
+        <version>6.8.0-SNAPSHOT</version>
     </parent>
     <artifactId>plugin-json-ide</artifactId>
     <packaging>gwt-lib</packaging>
