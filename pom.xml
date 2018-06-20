@@ -34,7 +34,7 @@
         <url>https://github.com/che-samples/che-plugin-json</url>
     </scm>
     <properties>
-        <che.version>6.7.0-SNAPSHOT</che.version>
+        <che.version>6.7.0</che.version>
     </properties>
     <dependencyManagement>
         <dependencies>
