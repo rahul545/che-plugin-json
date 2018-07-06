@@ -15,10 +15,10 @@ public final class Constants {
   public static final String JSON_EXAMPLE_LANG = "json";
 
   /** JSON Example Project Type ID. */
-  public static final String JSON_EXAMPLE_PROJECT_TYPE_ID = "json-example";
+  public static final String JSON_EXAMPLE_PROJECT_TYPE_ID = "tizen-example";
 
   /** JSON Example Category. */
-  public static final String JSON_EXAMPLE_CATEGORY = "JSON Example";
+  public static final String JSON_EXAMPLE_CATEGORY = "Tizen";
 
   /** JSON Schema reference attribute name. */
   public static final String JSON_EXAMPLE_SCHEMA_REF_ATTRIBUTE = "json-schem-ref";
